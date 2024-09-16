@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sin_Reborn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="nightmareRadioButton" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="chimeraRadioButton" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="customRadioButton" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="statMultiplierNumeric" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="apMultiplierNumeric" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="scalingCheckBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="dashboardLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">1107, 577</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
